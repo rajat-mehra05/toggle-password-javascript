@@ -1,2 +1,3 @@
 # toggle-password-javascript
-Created with CodeSandbox
+
+  - Show and hide password
